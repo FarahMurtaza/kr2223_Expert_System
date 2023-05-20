@@ -1,1 +1,3 @@
-# kr2223_EXPERT SYSTEM FOR MEDICAL DIAGNOSIS
+# kr2223_Expert System for Medical Diagnosis
+
+
