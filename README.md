@@ -1,13 +1,11 @@
 # kr2223_Expert System for Medical Diagnosis
-
-
+<br>
 
 **Project Description**
 ---
 
 This project involves an expert system designed to identify various mental illnesses or disabilities based on rules and factual information. The identification process involves asking users a series of questions that can be answered with either "yes" or "no".
-
-
+<br>
 
 **Project Structure**
 ---
@@ -59,15 +57,15 @@ For example:
 
 IF
 
-   -Type is eating disorder
+&nbsp;&nbsp;&nbsp;Type is eating disorder
  
-   -Consequence is low weight
+&nbsp;&nbsp;&nbsp;Consequence is low weight
  
-   -Food amount is food restriction
+&nbsp;&nbsp;&nbsp;Food amount is food restriction
 
 THEN
 
- -The mental disorder is diagnosed as Anorexia Nervosa
+&nbsp;&nbsp;&nbsp;The mental disorder is diagnosed as Anorexia Nervosa
  
  
  **Type of Result Obtained**
