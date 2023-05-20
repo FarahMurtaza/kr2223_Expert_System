@@ -110,3 +110,10 @@ The objective of this system is to identify the best diagnosis from a range of p
 
 
 This is a specific scenario, and you can explore other disorders by referring to the attached diagram.
+
+**Authors**
+---
+
+Farah Murtaza
+
+Ronalto Grassi
