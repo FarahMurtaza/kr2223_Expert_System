@@ -35,15 +35,14 @@ The expert system can diagnose the following mental disorders:
 	* Consequence: Purging
 	* Food Amount: Binge eating
 
-3. Down syndrome:
+3. Fragile X syndrom:
 	* Type: Genetic disorder
 	* Symptoms: Delayed physical growth
 	* Face Features: Long and narrow
-	* Ear Features: Large
 	* Brain Function: Intellectual disability
 
 
-4. Fragile X syndrome:
+4. Down syndrome:
 	* Type: Genetic disorder
 	* Face Features: Small chin and slanted eyes
 	* Brain Function: Intellectual disability
